@@ -1,0 +1,2 @@
+Lỗi: SV02 có điểm (11.0) ngoài khoảng 0-10.
+Lỗi: SV03 có dữ liệu điểm (abc) không phải là số.

@@ -1,0 +1,4 @@
+Số lượng sinh viên: 3
+Điểm trung bình: 6.50
+Số sinh viên đạt: 2
+Số sinh viên không đạt: 1
